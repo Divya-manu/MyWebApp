@@ -15,6 +15,8 @@
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
+		<sonar.token>sqa_167c02cae73b244dead66c5f8998abeaaba04544</sonar.token>
+		<sonar.host.url>http://localhost:9000/</sonar.host.url>
 	</properties>
 	<dependencies>
 		<dependency>
